@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UniFlexy</string>
+    <string name="title">UniFlexy</string>
+    <string name="label1Text">User type</string>
+    <string name="btnText1">Login</string>
+    <string name="label2Text">For Admin only:</string>
+    <string name="label3Text">Password:</string>
+    <string name="password">Password</string>
+    <string name="btn1">Lab/ Lecture Hall</string>
+    <string name="btn2">Timetable</string>
+    <string name="btn3">Other</string>
+    <string name="title2">Add Complaint</string>
+    <string name="priority">Priority</string>
+    <string name="category">Category</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="photograph">Photograph</string>
+    <string name="submit">Submit</string>
+    <string name="add">ADD</string>
+    <string name="title3">View Complaints</string>
+    <string name="image">Photograph</string>
+    <string name="CompID">id</string>
+    <string name="CompType" />
+    <string name="compType">Type</string>
+    <string name="compDes">Description</string>
+    <string name="compName">Name</string>
+    <string name="compPrio" />
+    <string name="compPrio1">Priority</string>
+    <string name="compImage">Photograph</string>
+
+    <string-array name="mainSpinner">
+        <item>Student</item>
+        <item>Admin</item>
+    </string-array>
+</resources>
